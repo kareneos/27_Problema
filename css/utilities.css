@@ -1,15 +1,4 @@
 /* Shortcuts */
-
-@media (max-width: 700px) {
-	[class*="col-"] {
-		width: 100%;
-	}
-}
-
-strong { 
-	font-weight: 600; 
-}
-
 .pd-0{
 	padding: 0;
 }
