@@ -1,0 +1,65 @@
+/*General*/
+img, input, iframe{
+	width: 100%;
+}
+a{
+	text-decoration: none;
+}
+.glyphicon{
+	border: none;
+}
+.pd-15{
+	padding: 15%;
+}
+/*colores*/
+.white{
+	color: white;
+}
+.black, a{
+	color: black;
+}
+.gray{
+	color: #A9A9A9;
+}
+/*background*/
+.grisc{
+	background-color: #EBEBEB;
+}
+.grism{
+	background-color: #D6D6D6;
+}
+.grisf{
+	background-color: #929292;
+}
+.negro{
+	background-color: #000000;
+}
+/*linea*/
+.linea{
+	border-bottom: .1em solid #EDEDED;
+}
+.left{
+	border-left: .1em solid black;
+}
+/*header*/
+header span{
+	border:.2em solid black;
+}
+/*body*/
+#foto{
+	padding:20%;
+}
+.historia{
+	margin-right: 50%;
+	padding:2%;
+}
+.underline{
+	text-decoration: underline;
+}
+/*FOOTER*/
+footer{
+	border-top: 1em solid black;
+}
+footer p, .bold{
+	font-weight: bolder;
+}
